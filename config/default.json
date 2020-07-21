@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://BB123:BB123@cluster0-x014c.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+  "jwtSecret": "contactKeeper",
+  "expiresIn": "2 days"
+}
